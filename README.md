@@ -1,4 +1,3 @@
-# project-news-recogniser
 # Fake News Detector API 📰🤖
 
 This project is an AI-powered service designed to classify news articles as **Fake** or **True**. It features a Machine Learning model built with **Scikit-learn**, wrapped in a **FastAPI** web server, and fully **Dockerized** for easy deployment.
